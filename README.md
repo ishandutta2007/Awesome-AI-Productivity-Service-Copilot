@@ -32,77 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The AI customer service and real-time agent assist software market is estimated at **$15B–$20B in 2025–2026** (scaling past $140B+ by the mid-2030s at an annual growth rate of ~25%). The sector exhibits a distinct split in market concentration: it is **highly concentrated at the enterprise CRM/data system-of-record layer** (dominated by titans like Microsoft, Salesforce, and Zendesk), but **moderately-to-highly fragmented at the specialized AI copilot and agentic application layer**, where emerging point solutions and fast-iterating startups vigorously compete alongside open-source frameworks.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Microsoft Copilot for Service**
-
-  **Agent assist copilot** integrated with Dynamics 365, Salesforce, and ServiceNow. **Features**: Drafts customer responses, summarizes case history, suggests knowledge base articles; real-time call summarization and case-context-aware drafting . **Pricing**: **Standalone $50/user/month** (on top of existing case management license); **$40/user/month with M365 Copilot**; included in **Dynamics 365 Customer Service Premium at $135/user/month** . **Free tier**: None. **Best for**: Microsoft-centric organizations wanting copilot across multiple CRM platforms—**trade-off**: standalone requires paying for both your case management platform and the copilot add-on.
-
-
-
-- **Zendesk Agent Copilot**
-
-  **AI assistant embedded in Zendesk agent workspace**. **Features**: **Generates procedures directly from internal sources**—guides agents from day one; part of Zendesk's Resolution Platform with Resolution Learning Loop improving over time . **Admin Copilot** offers **70+ proactive recommendations** for workflow improvements, saving customers like Kaizen Gaming an average of **11 hours of admin work per week** . **Pricing**: **$50/agent/month add-on below Enterprise**; included in Suite Enterprise . **Free tier**: No free plan; trial available. **Best for**: Zendesk customers wanting copilot integrated with their helpdesk—**trade-off**: gated to paid add-on below Enterprise; full intelligent triage requires Enterprise.
-
-
-
-- **Intercom Copilot**
-
-  **AI assistant within Intercom inbox**. **Features**: Helps human agents find answers, draft replies, troubleshoot issues, and translate messages in real time; separate from Fin (which resolves autonomously) . **Pricing**: **All full-seat teammates get access with usage included for up to 10 conversations per month**; **unlimited usage add-on $35/user/month** on any plan . **Free tier**: 10 Copilot conversations/month included with seats. **Best for**: Intercom customers wanting agent assist without committing to unlimited usage—**trade-off**: 10 conversations/month is a small allowance; unlimited requires add-on.
-
-
-
-- **Kustomer KIQ Copilot**
-
-  **Real-time agent assist** within Kustomer. **Features**: Suggested responses, summarization, tone adjustment, conversation context . **Pricing**: **$30–$60/user/month standalone**; Kustomer Enterprise **$89/user/month**; Ultimate **$139/user/month** . **Free tier**: None. **Best for**: high-volume D2C service operations—**trade-off**: **ROI requires 50+ tickets per agent per day**; marginal for lower-volume, higher-complexity agents .
-
-
-
-- **Forethought Assist**
-
-  **Agent productivity copilot** within Forethought's support platform. **Features**: Assists agents alongside Solve (resolution) and Triage; **Proof of Value (POV) instead of free trial** . **Pricing**: **Quote-only**; platform access fee plus outcome-based pricing; POV model. **Free tier**: POV only. **Best for**: teams already evaluating Forethought Solve wanting unified agent and customer AI—**trade-off**: no self-serve evaluation.
-
-
-
-- **Salesforce Einstein Copilot**
-
-  **AI copilot within Salesforce Service Cloud**. **Pricing**: **Sales Cloud Enterprise from $165/user/month**; some Einstein features included; **Agentforce (AI Agents) uses new consumption-based pricing** since 2025 . **Free tier**: Developer Edition available. **Best for**: Salesforce customers wanting copilot within their CRM—**trade-off**: total cost of ownership is high; Agentforce consumption pricing adds unpredictability.
-
-
-
-- **Freshworks Freddy AI Copilot**
-
-  **AI copilot within Freshdesk**. **Pricing**: **$29/agent/month** (annual) for Freshdesk; **Freddy AI Copilot purchasable for any number of agents**; **500 free sessions** with Pro and Enterprise subscriptions (one-time) . **Free tier**: 500 sessions trial. **Best for**: Freshworks customers wanting copilot at accessible per-agent pricing—**trade-off**: session-based AI Agent pricing separate from copilot.
-
-
-
-- **Gladly Sidekick**
-
-  **AI sidekick within Gladly platform** (now called Gladly AI). **Features**: Gladly charges **$0.25 per successful payment over chat** . **Pricing**: Quote-only; payment processing fee separate. **Free tier**: None. **Best for**: retail and D2C brands wanting AI alongside unified customer history—**trade-off**: limited public pricing detail.
-
-
-
-- **LivePerson Copilot**
-
-  **Generative AI copilot** within LivePerson. **Pricing**: **Gold entitlement only**—Bronze, Silver, Gold packages with no fixed dollar price; token allowance requires sales confirmation . **Free tier**: None. **Best for**: LivePerson customers on Gold tier wanting copilot with BYO LLM—**trade-off**: no public pricing; token costs separate.
-
-
-
-- **Ada Copilot**
-
-  **Desktop overlay** that drives any app (per ADA pricing page). **Pricing**: **ADA Copilot included in Pro, Team, and Enterprise plans** . **Free tier**: Starter plan does not include Copilot. **Best for**: teams wanting an overlay copilot that works across applications—**trade-off**: newer product; limited independent validation.
+| Company / Product | Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Key Features & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **Microsoft Copilot for Service** | ~$3.1T Market Cap / $245B+ Rev | $50/user/month standalone (or $40/user/month add-on with M365 Copilot; included in Dynamics 365 Customer Service Premium at $135/user/month) | No standalone free plan or trial; 30-day trial available via broader Dynamics 365 Customer Service | Deep CRM integrations (Dynamics 365, Salesforce, ServiceNow), context-aware drafting, real-time call summarization. Best for Microsoft-centric organizations. |
+| **Salesforce Einstein Copilot / Agentforce** | ~$280B Market Cap / $38B+ Rev | $165/user/month (Sales Cloud / Service Cloud Enterprise starting tier; Agentforce usage billed separately) | 30-day free trial of Service Cloud (sample data and workflows included); free Developer Edition environment | Native Service Cloud CRM integration, workflow automation, knowledge surfacing. Best for organizations committed to Salesforce CRM. |
+| **Zendesk Agent Copilot** | $10.2B Valuation (Acquired) / ~$2B Rev | $50/agent/month add-on below Enterprise (included in Suite Enterprise, which starts at $115/agent/month) | 14-day free trial of Suite Professional (no credit card required; talk limited to 2 min/call, one-time 14-day extension available) | Procedure generation directly from internal sources, Admin Copilot with 70+ proactive workflow recommendations. Best for Zendesk workspace users. |
+| **Intercom Copilot** | $3.6B Valuation (Acquired by Salesforce) / ~$400M ARR | $39/seat/month (Essential tier base) + $35/user/month for unlimited Copilot add-on | 14-day free trial of full platform features; paid seats include a permanent free allowance of 10 Copilot conversations/month | Inbox assistant for real-time answer surfacing, message drafting, and translation. Best for teams wanting agent assist integrated alongside Fin AI. |
+| **Freshworks Freddy AI Copilot** | ~$3.4B Market Cap / ~$840M Rev | $29/agent/month (Freshdesk Pro annual tier base) + Freddy Copilot add-on | 14-day free trial of Enterprise features; permanent free plan for up to 2 agents (includes 500 free Freddy AI sessions on Pro/Enterprise trial) | Affordable per-seat ticketing copilot, automated draft responses, ticket summarization. Best for cost-conscious support teams. |
+| **Ada Copilot** | $1.2B Valuation / ~$70M+ ARR | $30,000/year (~$2,500/month custom entry contract floor; included in Pro, Team, and Enterprise packages) | No free tier; no public self-serve free trial (custom proof-of-concept / evaluation sandboxes available via enterprise sales) | Cross-application desktop overlay driving external tools, automated playbook execution. Best for enterprise multi-channel service centers. |
+| **Forethought Assist** | >$200M Valuation (Acquired by Zendesk) / $115M+ Raised | Custom quote-only enterprise contracts (typically starts at ~$50–$100/agent/month platform add-on) | No free tier; no self-serve free trial (offers customized guided Proof of Value / POV pilot using historical support data) | Real-time agent assist alongside Solve and Triage, automated intent routing and macro recommendations. Best for large support teams already using Zendesk/Forethought. |
+| **Kustomer KIQ Copilot** | ~$250M Valuation (Spinout from Meta) | $30/user/month standalone copilot add-on (Kustomer platform base starts at $89/user/month Enterprise) | No free tier; no public self-serve free trial (custom sales-led demo and proof-of-concept evaluation available upon request) | Real-time suggested responses, conversation summarization, tone adjustment within CRM. Best for high-volume D2C service operations (>50 tickets/agent/day). |
+| **Gladly Sidekick** | ~$415M Valuation / ~$48M ARR | $150/agent/month (Hero entry plan, 10-seat minimum; + $0.25/payment or AI resolution add-ons) | No core free plan; no self-serve free trial for core platform (occasional 30-day trial offered on specific Shopify app store plugins) | Lifelong customer timeline conversation tracking, AI sidekick assistance, chat payments. Best for retail and D2C brands. |
+| **LivePerson Copilot** | ~$40M Market Cap / ~$240M Rev | Custom enterprise quote; available strictly on Gold entitlement tier (requires minimum token package commitments) | No free tier; no self-serve free trial (enterprise demonstrations and custom-scoped sandbox pilots available via sales) | Conversational Cloud generative copilot with BYO-LLM integration and automated routing. Best for enterprise contact centers on LivePerson Gold. |
 
 
 
