@@ -62,69 +62,69 @@ The sector displays a distinct bifurcation in market dynamics:
 
 ## 💻 Open-Source GitHub Projects
 
-*Self-hosted agent assist workspaces, open customer engagement platforms, and programmable LLM agent frameworks. Sorted in descending order by GitHub stars.*
+*Self-hosted agent assist workspaces, open customer engagement platforms, and programmable LLM agent frameworks. Sorted in descending order by GitHub_Stars.*
 
-1. ### [Dify](https://github.com/langgenius/dify) [![GitHub Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
+1. ### [Dify](https://github.com/langgenius/dify) [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
    - **Description**: Open-source LLM app development platform and agent orchestrator. Features visual prompt engineering, multi-model orchestration, Agentic RAG pipelines, and tools for building internal customer support copilot workflows with complete data privacy.
    - **Tech Stack**: Python, TypeScript, Next.js, PostgreSQL
    - **License**: Apache-2.0
    - **Best For**: Engineering teams wanting visual workflow orchestration for customer assist bots, internal agent copilot assistants, and enterprise RAG grounding.
 
-2. ### [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)
+2. ### [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)
    - **Description**: Drag-and-drop UI to build customized LLM flows, multi-agent conversational teams, and customer support chatbots. Easily integrates custom enterprise vector stores and APIs as copilot tool plugins.
    - **Tech Stack**: Node.js, TypeScript, LangChain
    - **License**: Apache-2.0
    - **Best For**: Rapid prototyping of customized service copilot flows and agentic tools with zero-code visual nodes.
 
-3. ### [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+3. ### [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
    - **Description**: Leading open-source omnichannel customer support platform (alternative to Zendesk and Intercom). Includes integrated AI assist tools for replying, summarizing tickets, rewriting response tone, and translating multilingual customer chats.
    - **Tech Stack**: Ruby on Rails, Vue.js, PostgreSQL, Redis
    - **License**: MIT
    - **Best For**: Teams needing a turnkey, fully self-hosted agent workspace with native AI assistant features and multi-channel inbox integration (Email, WhatsApp, Telegram, Live Chat).
 
-4. ### [Khoj](https://github.com/khoj-ai/khoj) [![GitHub Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)
+4. ### [Khoj](https://github.com/khoj-ai/khoj) [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)
    - **Description**: Open-source AI second brain and personal copilot. Connects with internal documents (PDFs, Markdown, Notion, GitHub) to provide real-time RAG-grounded assistance, proactive suggestions, and context-aware responses.
    - **Tech Stack**: Python, FastAPI, React
    - **License**: AGPL-3.0
    - **Best For**: Support agents and technical teams seeking a self-hosted semantic search and contextual knowledge copilot across disparate internal knowledge bases.
 
-5. ### [Activepieces](https://github.com/activepieces/activepieces) [![GitHub Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
+5. ### [Activepieces](https://github.com/activepieces/activepieces) [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
    - **Description**: Open-source business automation platform built for AI agentic workflows. Connects customer tickets with 200+ SaaS tools, triggers AI copilot drafting, extracts customer metadata, and syncs data back to CRM backends.
    - **Tech Stack**: TypeScript, Node.js, Angular
    - **License**: MIT / Commercial
    - **Best For**: Automating backend support agent workflows, AI-driven ticket enrichment, and CRM sync.
 
-6. ### [Rasa](https://github.com/RasaHQ/rasa) [![GitHub Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)
+6. ### [Rasa](https://github.com/RasaHQ/rasa) [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)
    - **Description**: Enterprise-grade conversational AI platform for building contextual assistants and agentic customer journeys with CalmM (Conversational AI with Language Models), combining LLM reasoning with deterministic business guardrails.
    - **Tech Stack**: Python
    - **License**: Rasa Open Source (Custom/Source Available)
    - **Best For**: Highly regulated enterprises requiring rigorous deterministic guardrails, compliance auditing, and self-hosted on-premise conversational infrastructure.
 
-7. ### [LiveKit Agents](https://github.com/livekit/agents) [![GitHub Stars](https://img.shields.io/github/stars/livekit/agents?style=social&color=white)](https://github.com/livekit/agents/stargazers)
+7. ### [LiveKit Agents](https://github.com/livekit/agents) [![GitHub_Stars](https://img.shields.io/github/stars/livekit/agents?style=social&color=white)](https://github.com/livekit/agents/stargazers)
    - **Description**: Framework for building real-time, low-latency multimodal AI agents (voice, video, and text). Designed for real-time contact center voice copilots, live call transcription, and instantaneous speech-to-speech agent assistance.
    - **Tech Stack**: Python, WebRTC, Go
    - **License**: Apache-2.0
    - **Best For**: Engineering teams building next-generation real-time voice copilots and interactive telephone/video support agents.
 
-8. ### [Botpress](https://github.com/botpress/botpress) [![GitHub Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)
+8. ### [Botpress](https://github.com/botpress/botpress) [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)
    - **Description**: Modular conversational AI developer platform with natural language understanding, bot visual workflow builder, and multi-channel customer engagement connectors.
    - **Tech Stack**: TypeScript, Node.js
    - **License**: AGPL-3.0
    - **Best For**: Building omnichannel customer-facing chatbots and support agent co-pilots with flexible webhook integrations.
 
-9. ### [Papercups](https://github.com/papercups-io/papercups) [![GitHub Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)
+9. ### [Papercups](https://github.com/papercups-io/papercups) [![GitHub_Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)
    - **Description**: Open-source live customer messaging platform with embeddable chat widgets, Slack/Mattermost synchronization, and webhook architectures to plug in custom LLM response drafters.
    - **Tech Stack**: Elixir, Phoenix, React, TypeScript
    - **License**: MIT
    - **Best For**: Developers who want an embeddable, customizable customer messaging tool with Slack integration for human agent handover.
 
-10. ### [Owly](https://github.com/Hesper-Labs/owly) [![GitHub Stars](https://img.shields.io/github/stars/Hesper-Labs/owly?style=social&color=white)](https://github.com/Hesper-Labs/owly/stargazers)
+10. ### [Owly](https://github.com/Hesper-Labs/owly) [![GitHub_Stars](https://img.shields.io/github/stars/Hesper-Labs/owly?style=social&color=white)](https://github.com/Hesper-Labs/owly/stargazers)
     - **Description**: Open-source AI customer support agent with unified multi-channel connectivity (WhatsApp, Email, Twilio phone calls). Features automated RAG knowledge bases, unified customer CRM timelines, ticket tracking, and an admin dashboard.
     - **Tech Stack**: Next.js 14, TypeScript, PostgreSQL, Prisma, Docker Compose
     - **License**: MIT
     - **Best For**: Small businesses, agencies, and self-hosters wanting a zero-subscription customer service agent with omnichannel phone and WhatsApp reach.
 
-11. ### [GopherAgent](https://github.com/hung12ct/gopheragent) [![GitHub Stars](https://img.shields.io/github/stars/hung12ct/gopheragent?style=social&color=white)](https://github.com/hung12ct/gopheragent/stargazers)
+11. ### [GopherAgent](https://github.com/hung12ct/gopheragent) [![GitHub_Stars](https://img.shields.io/github/stars/hung12ct/gopheragent?style=social&color=white)](https://github.com/hung12ct/gopheragent/stargazers)
     - **Description**: Production-grade Go agent framework featuring YAML-defined agent workflows, parallel tool scheduling, anti-loop detection, Human-in-the-Loop (HITL) approval gates, and OpenTelemetry observability.
     - **Tech Stack**: Go (Golang)
     - **License**: Apache-2.0
@@ -144,7 +144,7 @@ We welcome community contributions! Help us keep this resource fresh and compreh
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-copilot`).
-3. 📝 **Add or update an entry** in `README.md` (please adhere to the existing table format for SaaS or star badge structure for open-source).
+3. 📝 **Add or update an entry** in `README.md` (please adhere to the existing table format for SaaS or Stars_Badge structure for open-source).
 4. 🔗 **Verify all links** and ensure pricing or technical descriptions are accurate and fact-checked.
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
